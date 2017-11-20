@@ -25,6 +25,7 @@ The popular application to merge powers of two and reach to 2048 points.
 	<img src="Screenshots/2048_1.png" width="400">
 	<img src="Screenshots/2048_2.png" width="400">
 </div>
+
 ## ProjectileSimulator
 
 Self-made physics simulator to shoot tennis balls at targets.
