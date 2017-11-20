@@ -11,44 +11,47 @@ Python Cyber Arcade is a repository with many popular games written in Python us
 * Snake: Classical snake game with a refined minimalistic experience.
 
 <div align="center">
-	<img src="Screenshots/2048_1.png" width="300">
-	<img src="Screenshots/2048_2.png" width="300">
+	<img src="Screenshots/snake_1.png" width="400">
+	<img src="Screenshots/snake_2.png" width="400">
 </div>
 
 * 2048: The popular application to merge powers of two and reach to 2048 points.
 
 <div align="center">
-	<img src="logo.jpg" width="300">
+	<img src="Screenshots/2048_1.png" width="400">
+	<img src="Screenshots/2048_2.png" width="400">
 </div>
-
 * ProjectileSimulator: Self-made physics simulator to shoot tennis balls at targets.
 
 <div align="center">
-	<img src="logo.jpg" width="300">
+	<img src="Screenshots/projectileSimulator_1.png" width="400">
+	<img src="Screenshots/projectileSimulator_2.png" width="400">
 </div>
 
 * Squirrels: Make your way through the big squirrels and catch the small ones to grow in size.
 
 <div align="center">
-	<img src="logo.jpg" width="300">
+	<img src="Screenshots/squirrels_1.png" width="400">
+	<img src="Screenshots/squirrels_2.png" width="400">
 </div>
 
 * SimonSays: Classical memory game to repeat to sequence of colors. This time with the help of musical notes.
 
 <div align="center">
-	<img src="logo.jpg" width="300">
+	<img src="Screenshots/simonSays_1.png" width="400">
+	<img src="Screenshots/simonSays_2.png" width="400">
 </div>
-
 * TileMap, Collision & Movement Engine: Engine to generate any 2D map from .txt file specifying the format with icons. Also comes with very basic collisions engine and functionality to manage up to four players.
 
 <div align="center">
-	<img src="logo.jpg" width="300">
+	<img src="Screenshots/tileMapEngine_1.png" width="400">
+	<img src="Screenshots/tileMapEngine_2.png" width="400">
 </div>
 
 * Sonic: Sonic simulator to move characters around. Just testing.
 
 <div align="center">
-	<img src="logo.jpg" width="300">
+	<img src="Screenshots/sonic_1.png" width="400">
 </div>
 
 ## Requirements
