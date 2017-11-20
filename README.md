@@ -3,7 +3,7 @@
 ## Description
 Python Cyber Arcade is a repository with many popular games written in Python using Pygame graphics library. Each game is very easy to use and also has simple code which you can easily modify. Feel free to play and contribute!
 
-![](logo.jpg)
+<img src="logo.jpg" width="200">
 
 ## Requirements
 ```
