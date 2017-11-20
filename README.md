@@ -1,7 +1,12 @@
 # Python-Cyber-Arcade
 
 ## Description
-Python Cyber Arcade is a repository with many popular games written in Python using Pygame graphics library. Each game is very easy to use and also has simple code which you can easily modify. Feel free to play and contribute!
+
+Welcome to Python Cyber Arcade!
+
+Python Cyber Arcade is a repository with many popular games written in Python using Pygame graphics library. Each game is very easy to use and also has simple code which you can easily modify.
+
+Feel free to play and contribute!
 
 <div align="center">
 	<img src="logo.jpg" width="300">
