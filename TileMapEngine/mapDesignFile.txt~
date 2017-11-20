@@ -1,0 +1,39 @@
+# TILE MAP STRUCTURE FILE
+# Lines preceeded by "#" are ignored by the engine (are comments)
+
+# TILE MAP
+# Each number represents a tile from the tile set. 0 means no tile.
+# Add "[" at start of each game map row
+
+[0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+[0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+[0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+[0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  
+[0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+[0  0  0  0  0  13 14 15 0  0  0  0  0  0  13 14 15 0  0
+[0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+[0  0  0  0  0  0  0  0  0  13 14 14 15 0  0  0  0  0  0
+[13 15 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+[0  0  0  1  2  2  2  2  2  2  2  2  2  2  2  2  2  2  3  
+[0  0  0  4  5  5  5  5  5  5  5  5  5  5  5  5  5  5  6  
+[0  0  0  4  5  5  5  5  5  5  5  5  5  5  5  5  5  5  6  
+
+# MAP DECORATION
+# All decoration objects for the map (e.g. rocks, trees, etc.)
+# format: -objectType tileMapRow tileMapColumn horizontalOffSet verticalOffSet
+# Add "-" at start of each decoration object
+
+-Stone     8 6   0  0
+-Stone     8 17  0  0
+-Tree2     8 4   0  0
+-Tree3     8 16  0  0
+-Mushroom1 6 11   10 0
+-Mushroom2 6 12  -50 0
+-Sign1     8 10   0  0
+-Bush3     8 12  50  0
+-Bush1     8 13  0  0
+-Bush3     8 13 80  0
+-Sign2     4 6	   -50  0
+-Tree1     4 15  50  0
+-Mushroom2 4 5 0 0
+-Bush4     7 0 0 0
